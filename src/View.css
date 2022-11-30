@@ -1,0 +1,42 @@
+.viewContainer {
+    border-radius: 10px;
+    border: 2px dotted;
+    position: relative;
+    width: 540px;
+    height: 398px;
+    margin: 16px auto;
+    padding: 1em;
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+.viewContainer h1 { 
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.viewContainer p { 
+    padding: 5px;
+    margin: 10px 0;
+    color: black;
+    font-weight: bold;
+}
+
+.viewContainer span {
+    color: rgb(7, 65, 132);
+    font-style: italic;
+    font-weight: lighter;
+    padding: 2rem;
+}
+
+.viewContainer .message_style {
+    color: rgb(7, 65, 132);
+    font-style: italic;
+    font-weight: lighter;
+    padding: 0.8rem;
+    height: 130px;
+    text-align: justify;
+    white-space: wrap;
+    overflow: auto;
+}

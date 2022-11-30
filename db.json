@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Smith",
+      "phone": "0458932181",
+      "role": "student",
+      "message": "Hello how are you?"
+    },
+    {
+      "id": 2,
+      "firstname": "Jane",
+      "lastname": "Stone",
+      "phone": "0458932182",
+      "role": "staff",
+      "message": "What is your name?"
+    },
+    {
+      "id": 3,
+      "firstname": "Eva",
+      "lastname": "Oliver",
+      "phone": "0458932183",
+      "role": "teacher",
+      "message": "Where are you from?"
+    },
+    {
+      "id": 4,
+      "firstname": "Lisa",
+      "lastname": "Ford",
+      "phone": "0458932184",
+      "role": "student",
+      "message": "What is your favourite team?"
+    },
+    {
+      "id": 5,
+      "firstname": "Alexander ",
+      "lastname": "Otulugbu",
+      "phone": "0458932185",
+      "role": "staff",
+      "message": "Testing"
+    }
+  ]
+}

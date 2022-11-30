@@ -1,0 +1,68 @@
+.popupContent {
+    border-radius: 10px;
+    border: 2px dotted;
+    position: relative;
+    width: 540px;
+    height: 500px;
+    margin: auto;
+    padding: 1em;
+    text-align: left;
+    background-color: aqua;
+ 
+}
+
+.popupContainer {
+        position: fixed;
+        top: 0%;
+        right: 20%;
+        bottom: 0%;
+        left: 20%;
+        padding: 10px;
+        box-shadow: 0 10px 30px 0 rgba(127, 127, 127, 0.3);
+        background: rgba(255, 255, 255, 0.8);
+      }
+      
+
+.popupContainer h2 { 
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.popupContainer p { 
+    padding: 5px;
+    margin: 10px 0;
+    color: black;
+    font-weight: bold;
+}
+
+.popupContainer span {
+    color: darksalmon;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 2rem;
+}
+
+
+
+.buttons  {
+    margin: 0 auto;
+    text-align: center
+}
+
+.buttons button {
+    margin: 0 auto;
+    background-color: green;
+    cursor: pointer;
+}
+
+.popupContent .message_style  {
+    color: rgb(7, 65, 132);
+    font-style: italic;
+    font-weight: lighter;
+    padding: 0.8rem;
+    height: 160px;
+    text-align: justify;
+    white-space: wrap;
+    overflow: auto;
+}
